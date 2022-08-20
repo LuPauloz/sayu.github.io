@@ -11,14 +11,13 @@
 	background: pink;
 
 }
-.love,.yes,.no{padding-top: 15%;
+.love,.yes,.no{padding-top: 5%;
 		
 		}
 .love span{color:red;}
 h2{font-size: 72px;margin-bottom: 20px;}
-a{font-size: 24px;text-decoration: none;padding: 5px 10px;
-	margin-top: 20px;
-	color: red;}
+
+p{font-size: 24px; padding: 5px 10px; margin-bottom: 10px;}
 #no{color:red; background: #eee;margin-right: 50px;}
 #yes{color:green;background: #eee;}
 
